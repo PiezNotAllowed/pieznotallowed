@@ -4,11 +4,14 @@
 - 🥅 Goal for 2021: Learn/Master Java.
 
 ### My Social Media:
-[<img align="left" alt="Piez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Piez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piewith_Z)
+[<img align="left" alt="Glitchfy | Youtube" width="22px" src="https://user-images.githubusercontent.com/64570731/109303613-a3372280-786d-11eb-90bc-7850bd54af18.png" />](https://www.youtube.com/channel/UCiHdrA8iLiifT4UE15ljMzg)
 
 <br />
 
 ### Tools:
-[<img align="left" alt="Intellij Community" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][https://www.jetbrains.com/idea/]
-[<img align="left" alt="Eclipse" width="26px" src"https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" />][https://www.eclipse.org/ide/]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />][https://code.visualstudio.com/]
+
+
+<img align="left" src="https://user-images.githubusercontent.com/64570731/109301901-299e3500-786b-11eb-96ac-a59eec59e81d.png" alt="Intellij Community" width="26px">
+<img align="left" src="https://user-images.githubusercontent.com/64570731/109303148-ef359780-786c-11eb-8d8f-06456bc82e00.png" alt="Eclipse" width="100px">
+<img align="left" src="https://user-images.githubusercontent.com/64570731/109303367-45a2d600-786d-11eb-9547-9bb882199360.png" alt="Intellij Community" width="26px">
