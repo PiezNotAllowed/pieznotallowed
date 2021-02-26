@@ -1,6 +1,6 @@
 ### Hi there, I'm piewith_z aka Piez 👋 - I make random stuff on my repositories.
 ## I'm a Programmer and stuff.
-- 😎 I'm currently working on [Pion][https://github.com/PiezNotAllowed/Pion/]
+- 😎 I'm currently working on [Pion](https://github.com/PiezNotAllowed/Pion/)
 - 🥅 Goal for 2021: Learn/Master Java.
 
 ### My Social Media:
